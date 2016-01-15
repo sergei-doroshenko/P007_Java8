@@ -7,6 +7,12 @@ import java.util.List;
 
 /**
  * Created by sergei on 1/14/16.
+ *
+ * Tell, don't ask:
+ * - Keep your focus on the whole instead instead of the part
+ * - Code is transparent
+ * - Avoid the smell of null
+ * - Optional
  */
 public class Sample03 {
     public static void main(String[] args) {

@@ -5,6 +5,12 @@ import java.util.function.Function;
 
 /**
  * Created by sergei on 1/14/16.
+ *
+ * Execute around method pattern:
+ * - Garbage collection
+ * - Resource clean up
+ * - ARM
+ * - Deterministic behavior
  */
 public class Sample06 {
     public static void main(String[] args) {

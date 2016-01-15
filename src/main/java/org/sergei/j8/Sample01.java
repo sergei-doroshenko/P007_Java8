@@ -6,6 +6,10 @@ import java.util.stream.*;
 
 /**
  * Created by Sergei on 13.01.2016.
+ *
+ * Deodorizing Inner-Classes
+ * - Single Abstract Method Interfaces
+ * - Functional Interfaces
  */
 public class Sample01 {
     public static void main(String[] args) {

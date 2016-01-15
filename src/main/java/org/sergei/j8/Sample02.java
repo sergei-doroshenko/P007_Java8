@@ -9,6 +9,12 @@ import static java.util.stream.Collectors.toList;
 
 /**
  * Created by sergei on 1/14/16.
+ *
+ * Streamlining iterations:
+ * - Specialized functions
+ * - Function composition
+ * - Infinite streams
+ * - Lazy evaluation
  */
 public class Sample02 {
     public static boolean isPrime(int number) {

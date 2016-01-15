@@ -6,6 +6,10 @@ import java.util.stream.*;
 
 /**
  * Created by sergei on 1/14/16.
+ *
+ * You gotta be kidding:
+ * - Simple tasks that haunt us
+ * - Higher level of abstraction
  */
 public class Sample04 {
     public static void main(String[] args) {

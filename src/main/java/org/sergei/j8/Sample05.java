@@ -8,6 +8,10 @@ import java.util.List;
 
 /**
  * Created by sergei on 1/14/16.
+ *
+ * Non-intrusive Comparisons:
+ * - Comparable vs. Comparator
+ * - Composition of comparators
  */
 public class Sample05 {
     public static void printSorted(List<Person> people, Comparator<Person> comparator) {
